@@ -169,3 +169,5 @@ cython_debug/
 *.pickle
 *.csv
 *.npz
+
+cb_model
